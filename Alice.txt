@@ -1,4 +1,4 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.haha pull text here
 This is a second line to alice.
 Adding more text to cause conflict maybe.
 Adding more text to test rebase.
