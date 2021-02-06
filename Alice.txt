@@ -2,6 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.haha pull
 This is a second line to alice.
 Adding more text to cause conflict maybe.
 Adding more text to test rebase.
-<<<<<<< HEAD
 fixed pull conflict
 successfully stashed and pulled and popped
